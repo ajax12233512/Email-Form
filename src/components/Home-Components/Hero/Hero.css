@@ -1,0 +1,23 @@
+.home-hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-hero svg{
+    height: 50vh;
+    width: 50vw;
+}
+
+.button-hero{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    background-color: rgb(252, 200, 105);
+    color: black;
+}
+
+.button-hero:hover{
+    background-color: rgb(252, 200, 105, .5);
+}
