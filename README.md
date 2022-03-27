@@ -1,4 +1,5 @@
-# NeilMail *WORK IN PROGRESS*
+# NeilMail
+[Official Link](https://neil-mail.herokuapp.com/)
 
 # Description
 The purpose of this application is to manage, and automate emails
