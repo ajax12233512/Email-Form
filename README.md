@@ -1,9 +1,15 @@
-# NeilMail *WORK IN PROGRESS*
+# NeilMail
+[Official Link](https://neil-mail.herokuapp.com/)
 
 # Description
 The purpose of this application is to manage, and automate emails
 through an online provider. This implementation of email configuration 
 can be used for many purpose, but this will be a basic set up. 
+
+# Purpose
+Demonstration of vital operations as a *Email Developer*. Email Template Mangagers or HTML Email Developers
+are very common entry level positions for new developers. This application shows my familiarity
+with such technologies and intentions. 
 
 # Installation and Usage 
 When ran from VS code, use `npm start` to start the development exection.
@@ -16,3 +22,4 @@ When Link is available to deployed website, it will be here
 4. [react-env (npm)](https://www.npmjs.com/package/react-dotenv)
 
 
+![NeilMailReadme](https://user-images.githubusercontent.com/37945822/160264470-fb3dd269-c63d-4bac-af09-c40472e5691a.JPG)
