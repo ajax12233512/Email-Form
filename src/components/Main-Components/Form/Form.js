@@ -24,8 +24,10 @@ function Form() {
     emailjs.sendForm(window.env.SERVICE_ID, window.env.TEMPLATE_ID,  form.current, window.env.USER_ID)
     .then((result) => {
         console.log(result.text);
+        window.location.assign('/Success')
     }, (error) => {
         console.log(error.text);
+        
     });
 
   }
