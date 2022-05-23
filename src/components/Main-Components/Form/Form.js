@@ -18,8 +18,7 @@ function Form() {
     values.message = message
     console.log(values);
 
-   
-
+    
 
     emailjs.sendForm(window.env.SERVICE_ID, window.env.TEMPLATE_ID,  form.current, window.env.USER_ID)
     .then((result) => {
